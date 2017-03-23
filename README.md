@@ -1,8 +1,8 @@
-# forkOff
-Collection of Fork bombs
+# FalseAlarm
+Collection of Fork bombs, Fake viruses and whatever.
 
 
-Make a pull request for your bombs to be added.
+Make a pull request for your content to be added..
 
 
-Any language, any code accepted (JUST MAKE SURE TO COMMENT WHAT THE CODE DOES SO PEOPLE CAN LEARN HOW IT WORKS)
+Any language, any code accepted (Anything that isn't harmless won't be added.)
